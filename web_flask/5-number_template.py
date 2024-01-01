@@ -1,4 +1,6 @@
-tart a Flask application with routes
+#!/usr/bin/python3
+"""
+Start a Flask application with routes
 /, /hbnb, /c/<text>
 """
 
